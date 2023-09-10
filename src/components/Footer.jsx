@@ -116,16 +116,16 @@ const Footer = () => {
         <Title>Đường dẫn nhanh</Title>
         <List>
           <ListItem
-          href="https://leloi.netlify.app/"
+          href="https://thuvienleloi.netlify.app/"
           >Trang chủ mượn sách</ListItem>
           <ListItem
           href="https://quanlyleloi.netlify.app/"
           >Trang quản lý sách</ListItem>
           <ListItem
-          href="https://leloi.netlify.app/books/"
+          href="https://thuvienleloi.netlify.app/books/"
           >Danh sách đầu sách</ListItem>
           <ListItem
-          href="https://leloi.netlify.app/cart/"
+          href="https://thuvienleloi.netlify.app/cart/"
           >Tủ sách của bạn</ListItem>
           {/* <ListItem>Accessories</ListItem>
           <ListItem>My Account</ListItem>
